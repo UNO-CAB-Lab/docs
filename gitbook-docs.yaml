@@ -29,7 +29,6 @@ site:
           title: Designing Your Survey
           path: designing-your-survey
           default: true
-          draft: true
           content:
             directory: ./designing-your-survey
     - type: section
@@ -44,7 +43,6 @@ site:
           title: Uploading Your Data
           path: uploading-your-data
           default: true
-          draft: true
           content:
             directory: ./uploading-your-data
     - type: section
@@ -59,7 +57,6 @@ site:
           title: Creating Visualizations
           path: creating-visualizations
           default: true
-          draft: true
           content:
             directory: ./creating-visualizations
     - type: section
