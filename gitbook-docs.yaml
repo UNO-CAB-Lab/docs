@@ -59,17 +59,3 @@ site:
           default: true
           content:
             directory: ./creating-visualizations
-    - type: section
-      key: section-5
-      title: Help Center
-      path: help-center
-      description: ""
-      icon: circle-question
-      children:
-        - type: space
-          key: space-5
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./help-center
