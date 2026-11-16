@@ -19,14 +19,14 @@ site:
             directory: ./home
     - type: section
       key: section-4
-      title: Designing Your Survey
+      title: Sharing Your Survey
       path: designing-your-survey
       description: ""
       icon: clipboard-list-check
       children:
         - type: space
           key: space-4
-          title: Designing Your Survey
+          title: Sharing Your Survey
           path: designing-your-survey
           default: true
           content:
