@@ -29,7 +29,7 @@ layout:
 
 #### Our Data
 
-The CAB Lab collects a combination of survey-based and physiological sensor data to provide researchers with powerful insights on human behavior. We frequently utilize Eye Tracking sensors, Facial Expression Analysis software, and Galvanic Skin Response (GSR) sensors to paint this picture.&#x20;
+The CAB Lab collects a combination of survey-based and physiological sensor data to provide researchers with powerful insights on human behavior. We frequently utilize Eye Tracking sensors, Facial Expression Analysis software, and Galvanic Skin Response (GSR) sensors to paint this picture.
 
 {% stepper %}
 {% step %}
@@ -69,7 +69,7 @@ pip install CBACABLab
 conda install -c tazzben CBACABLab
 ```
 
-If you don't yet have Python installed, we recommend installing Anaconda, which is a open-source distribution of Python that includes useful packages for data analysis. You can download Anaconda from [here](https://www.anaconda.com/products/distribution). We also recommend you install Microsoft [Visual Studio Code](https://code.visualstudio.com/) to work with notebook files.&#x20;
+If you don't yet have Python installed, we recommend installing Anaconda, which is a open-source distribution of Python that includes useful packages for data analysis. You can download Anaconda from [here](https://www.anaconda.com/products/distribution). We also recommend you install Microsoft [Visual Studio Code](https://code.visualstudio.com/) to work with notebook files.
 
 #### Primary Uses
 
@@ -77,4 +77,4 @@ The CBACABLab library is designed to help researchers transform raw data into me
 
 We want to make the data analysis process as seamless as possible. Explore how you can use this library to minimize your time spent on analysis:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4>Step 1: Designing Your Survey</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn how to configure your Qualtrics survey to ensure smooth parsing later on.</p></td><td><a href=".gitbook/assets/design-survey.jpg">design-survey.jpg</a></td></tr><tr><td><h4>Step 2: Uploading Your Data     </h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn how to upload your raw iMotions and Qualtrics data.</p></td><td><a href=".gitbook/assets/upload-data.jpg">upload-data.jpg</a></td></tr><tr><td><h4>Step 3: Creating Visualizations </h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn about the functions working behind the scenes to create the visuals you value most.</p></td><td><a href=".gitbook/assets/create-visuals.jpg">create-visuals.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><a href="https://app.gitbook.com/o/DLqVZqq8N4AISRDLSlFN/s/wJoTG1jFJkDSWB35TGJH/"><mark style="color:$primary;">Step 1: Sharing Your Qualtrics Survey</mark></a></h4></td><td>Learn how to create a Qualtrics account and share your survey with the CAB Lab.</td><td><a href=".gitbook/assets/design-survey.jpg">design-survey.jpg</a></td></tr><tr><td><h4>Step 2: Uploading Your Data</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn how to upload your raw iMotions and Qualtrics data.</p></td><td><a href=".gitbook/assets/upload-data.jpg">upload-data.jpg</a></td></tr><tr><td><h4>Step 3: Creating Visualizations</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn about the functions working behind the scenes to create the visuals you value most.</p></td><td><a href=".gitbook/assets/create-visuals.jpg">create-visuals.jpg</a></td></tr></tbody></table>
