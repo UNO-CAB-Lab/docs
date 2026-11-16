@@ -2,7 +2,6 @@
 description: >-
   Learn how to create a Qualtrics account and share your survey with the CAB
   Lab.
-icon: clipboard-list-check
 ---
 
 # Sharing Your Survey
