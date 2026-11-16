@@ -1,7 +1,7 @@
 ---
 description: >-
   Welcome to the UNO Commerce and Applied Behavioral (CAB) Lab Module User
-  Guide! This documentation will provide a plain-language guide to using our
+  Guide! This documentation provides a plain-language guide for using our
   streamlined data analysis tool.
 layout:
   width: wide
