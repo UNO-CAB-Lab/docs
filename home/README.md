@@ -1,8 +1,8 @@
 ---
 description: >-
   Welcome to the UNO Commerce and Applied Behavioral (CAB) Lab Module User
-  Guide! This documentation provides a plain-language guide for using our
-  streamlined data analysis tool.
+  Guide! This documentation will teach you how to use our streamlined data
+  analysis tool.
 layout:
   width: wide
   title:
@@ -69,7 +69,7 @@ pip install CBACABLab
 conda install -c tazzben CBACABLab
 ```
 
-If you don't yet have Python installed, we recommend installing Anaconda, which is a open-source distribution of Python that includes useful packages for data analysis. You can download Anaconda from [<mark style="color:$primary;">here</mark>](https://www.anaconda.com/products/distribution). We also recommend you install Microsoft [<mark style="color:$primary;">Visual Studio Code</mark>](https://code.visualstudio.com/) to work with notebook files.
+If you don't yet have Python installed, we recommend installing Anaconda, which is an open-source distribution of Python that includes useful packages for data analysis. You can download Anaconda from [<mark style="color:$primary;">here</mark>](https://www.anaconda.com/products/distribution). We also recommend you install Microsoft [<mark style="color:$primary;">Visual Studio Code</mark>](https://code.visualstudio.com/) to work with notebook files.
 
 #### Primary Uses
 
