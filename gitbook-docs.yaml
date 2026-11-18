@@ -47,14 +47,14 @@ site:
             directory: ./uploading-your-data
     - type: section
       key: section-2
-      title: Creating Visualizations
+      title: CBACABLab Documentation
       path: creating-visualizations
       description: ""
       icon: chart-fft
       children:
         - type: space
           key: space-2
-          title: Creating Visualizations
+          title: CBACABLab Documentation
           path: creating-visualizations
           default: true
           content:
