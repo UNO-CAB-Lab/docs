@@ -22,6 +22,7 @@ site:
       title: Sharing Your Survey
       path: designing-your-survey
       description: ""
+      icon: square-poll-horizontal
       children:
         - type: space
           key: space-4
@@ -48,7 +49,6 @@ site:
       title: CBACABLab Documentation
       path: creating-visualizations
       description: ""
-      icon: terminal
       children:
         - type: space
           key: space-2
