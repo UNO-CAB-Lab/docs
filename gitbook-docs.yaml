@@ -36,7 +36,7 @@ site:
       title: Getting Your Data
       path: uploading-your-data
       description: ""
-      icon: cloud-arrow-up
+      icon: file-excel
       children:
         - type: space
           key: space-3
@@ -50,7 +50,7 @@ site:
       title: CBACABLab Documentation
       path: creating-visualizations
       description: ""
-      icon: chart-fft
+      icon: terminal
       children:
         - type: space
           key: space-2
