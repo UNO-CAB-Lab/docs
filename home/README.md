@@ -1,8 +1,8 @@
 ---
 description: >-
   Welcome to the UNO Commerce and Applied Behavioral (CAB) Lab Module User
-  Guide! This documentation will teach you how to use our streamlined data
-  analysis tool.
+  Guide! This documentation will provide a plain-language introduction to our
+  streamlined data analysis procedures.
 layout:
   width: wide
   title:
@@ -77,4 +77,4 @@ The CBACABLab library is designed to help researchers transform raw data into me
 
 We want to make the data analysis process as seamless as possible. Explore how you can use this library to minimize your time spent on analysis:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><a href="https://app.gitbook.com/o/DLqVZqq8N4AISRDLSlFN/s/wJoTG1jFJkDSWB35TGJH/"><mark style="color:$primary;">Step 1: Sharing Your Qualtrics Survey</mark></a></h4></td><td>Learn how to create a Qualtrics account and share your survey with the CAB Lab.</td><td><a href=".gitbook/assets/design-survey.jpg">design-survey.jpg</a></td></tr><tr><td><h4>Step 2: Uploading Your Data</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn how to upload your raw iMotions and Qualtrics data.</p></td><td><a href=".gitbook/assets/upload-data.jpg">upload-data.jpg</a></td></tr><tr><td><h4>Step 3: Creating Visualizations</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn about the functions working behind the scenes to create the visuals you value most.</p></td><td><a href=".gitbook/assets/create-visuals.jpg">create-visuals.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><a href="https://app.gitbook.com/o/DLqVZqq8N4AISRDLSlFN/s/wJoTG1jFJkDSWB35TGJH/"><mark style="color:$primary;">Step 1: Sharing Your Qualtrics Survey</mark></a></h4></td><td>Learn how to create a Qualtrics account and share your survey with the CAB Lab.</td><td><a href=".gitbook/assets/design-survey.jpg">design-survey.jpg</a></td></tr><tr><td><h4>Step 2: Getting Your Data</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn about the data you'll receive from the CAB Lab at the end of your study.</p></td><td><a href=".gitbook/assets/upload-data.jpg">upload-data.jpg</a></td></tr><tr><td><h4>Step 3: Creating Visualizations</h4></td><td><p><mark style="color:$primary;">Under construction</mark></p><p>Learn about the functions working behind the scenes to create the visuals you value most.</p></td><td><a href=".gitbook/assets/create-visuals.jpg">create-visuals.jpg</a></td></tr></tbody></table>
