@@ -22,7 +22,6 @@ site:
       title: Sharing Your Survey
       path: designing-your-survey
       description: ""
-      icon: clipboard-list-check
       children:
         - type: space
           key: space-4
@@ -36,7 +35,6 @@ site:
       title: Getting Your Data
       path: uploading-your-data
       description: ""
-      icon: file-excel
       children:
         - type: space
           key: space-3
