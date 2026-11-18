@@ -33,14 +33,14 @@ site:
             directory: ./designing-your-survey
     - type: section
       key: section-3
-      title: Uploading Your Data
+      title: Getting Your Data
       path: uploading-your-data
       description: ""
       icon: cloud-arrow-up
       children:
         - type: space
           key: space-3
-          title: Uploading Your Data
+          title: Getting Your Data
           path: uploading-your-data
           default: true
           content:
