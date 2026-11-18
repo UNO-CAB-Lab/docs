@@ -50,7 +50,7 @@ site:
       title: CBACABLab Documentation
       path: creating-visualizations
       description: ""
-      icon: terminal
+      icon: github
       children:
         - type: space
           key: space-2
